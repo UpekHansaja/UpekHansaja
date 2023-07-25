@@ -1,5 +1,6 @@
-### Hi there, I'm Upek Hansaja 
+![Header](./bannerImg-Upek.png)
 
+### Hi there, I'm Upek Hansaja 👋
 <p>
 I'm a Full-Stack Software Engineering Undergraduate with a passion for Web-Application Development. I specialize in Frontend technologies like HTML, CSS, and JavaScript, creating beautiful and responsive user interfaces. On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless data handling and processing.
 
