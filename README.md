@@ -1,9 +1,3 @@
-<style>
-  a{
-    text-decoration: none;
-  }
-</style>
-
 ![Header](./res/bannerImg-Upek.png)
 
 ### Hi there, I'm Upek Hansaja 👋
@@ -27,13 +21,13 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel Free to Reach Me Any Time...
 </div>
 <p align="center">
-  <a target="_blank" href="https://www.upek.dev"> <img src="./res/logo.svg" alt="upek's logo"/> </a>
-  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./res/twitterIcon.svg" alt="upek's Twitter"/> </a>
-  <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/"> <img src="./res/linkedin.svg" alt="upek's LinkedIn"/> </a>
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668"> <img src="./res/facebook.svg" alt="upek's Facebook"/> </a>
-  <a target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./res/instagram.svg" alt="upek's Instagram"/> </a>
-  <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/redditNew.svg" alt="upek's Reddit"/> </a>
-  <a target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./res/pinterest.svg" alt="upek's Pinterest"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.upek.dev"> <img src="./res/logo.svg" alt="upek's logo"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./res/twitterIcon.svg" alt="upek's Twitter"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.linkedin.com/in/upek-hansaja/"> <img src="./res/linkedin.svg" alt="upek's LinkedIn"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668"> <img src="./res/facebook.svg" alt="upek's Facebook"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./res/instagram.svg" alt="upek's Instagram"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/redditNew.svg" alt="upek's Reddit"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./res/pinterest.svg" alt="upek's Pinterest"/> </a>
 </p>
 
 <hr>
