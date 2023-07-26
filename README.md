@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/"> <img src="./res/linkedin.svg" alt="upek's LinkedIn"/> </a>
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668"> <img src="./res/facebook.svg" alt="upek's Facebook"/> </a>
   <a target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./res/instagram.svg" alt="upek's Instagram"/> </a>
-  <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/reddit-46.svg" alt="upek's Reddit"/> </a>
+  <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/redditNew.svg" alt="upek's Reddit"/> </a>
   <a target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./res/pinterest.svg" alt="upek's Pinterest"/> </a>
 </p>
 
