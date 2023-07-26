@@ -1,3 +1,9 @@
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
+
 ![Header](./res/bannerImg-Upek.png)
 
 ### Hi there, I'm Upek Hansaja 👋
