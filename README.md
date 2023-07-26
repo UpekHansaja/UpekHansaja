@@ -28,6 +28,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a style='text-decoration: none;' target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./res/instagram.svg" alt="upek's Instagram"/> </a>
   <a style='text-decoration: none;' target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/redditNew.svg" alt="upek's Reddit"/> </a>
   <a style='text-decoration: none;' target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./res/pinterest.svg" alt="upek's Pinterest"/> </a>
+  <a style='text-decoration: none;' target="_blank" href="https://www.pinterest.com/upekhansaja/"> testText </a>
 </p>
 
 <hr>
