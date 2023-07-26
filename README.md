@@ -16,7 +16,12 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 ### Reach me out! :mailbox:
 
 <span>
-<a href="https://twitter.com/UpekHansaja" target="_blank"> <img src="./twitterIcon.svg" alt="upek's Twitter"> </a>
+  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
+  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
+  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
+  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
+  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
+  <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
 </span>
 
 <hr>
