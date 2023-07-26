@@ -67,7 +67,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://netbeans.apache.org"> <img src="./res/netbeans.svg" alt="netbeans IDE" title="Apache NetBeans IDE"/> </a>
   &nbsp;
-  <a target="_blank" href="https://github.com"> <img src="./res/github.svg" alt="github" title="GitHub"/> </a>
+  <a target="_blank" href="https://github.com"> <img src="./res/github-light.svg" alt="github" title="GitHub"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.visual-paradigm.com"> <img src="./res/visualParadigm.svg" alt="visual paradigm" title="Visual Paradigm"/> </a>
   &nbsp;
