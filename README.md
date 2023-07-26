@@ -10,3 +10,13 @@ As a versatile developer, I also have experience in Project Management, ensuring
 
 Welcome to my GitHub portfolio, where you'll find a collection of my projects showcasing my skills and passion for software development. Let's build innovative solutions together!
 </p>
+
+<hr>
+
+### Reach me out! :mailbox:
+
+<span>
+<a href="https://twitter.com/UpekHansaja" > <img src="./twitterIcon.svg" alt="upek's Twitter"> </a>
+</span>
+
+<hr>
