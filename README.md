@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <hr>
 
-### Reach me out! :mail:
+### Reach me out! 🔗:
 
 <span>
   <a target="_blank" href="https://www.upek.dev"> <img src="./logo.svg" alt="upek's logo"/> </a>
