@@ -56,18 +56,22 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.mongodb.com"> <img src="./res/mongoDB.svg" alt="mongobd" title="Mongo DB"/> </a>
+  &nbsp;
+  <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a>
+  &nbsp;
+  <a target="_blank" href="https://www.arduino.cc"> <img src="./res/arduino.svg" alt="arduino" title="Arduino"/> </a>
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  <a target="_blank" href="https://code.visualstudio.com"> <img src="./res/vscode.svg" alt="vs code" title="Visual Studio Code"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  <a target="_blank" href="https://netbeans.apache.org"> <img src="./res/netbeans.svg" alt="netbeans IDE" title="Apache NetBeans IDE"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  <a target="_blank" href="https://github.com"> <img src="./res/github.svg" alt="github" title="GitHub"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  <a target="_blank" href="https://www.visual-paradigm.com"> <img src="./res/visualParadigm.svg" alt="visual paradigm" title="Visual Paradigm"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  <a target="_blank" href="https://www.figma.com"> <img src="./res/figma.svg" alt="figma UX UI" title="Figma"/> </a>
 </p>
 
 <hr>
