@@ -34,6 +34,10 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 ### Programming Languages 💻:
 
-<a target="_blank" href="#"> <img src="./res/twitterx.svg" alt="upek's lang"/> </a>
+<p align="center">
+  <a target="_blank" href="#"> <img src="./res/twitterx.svg" alt="upek's lang"/> </a>
+  <a target="_blank" href="#"> <img src="./res/twitterx.svg" alt="upek's lang"/> </a>
+  <a target="_blank" href="#"> <img src="./res/twitterx.svg" alt="upek's lang"/> </a>
+</p>
 
 <hr>
