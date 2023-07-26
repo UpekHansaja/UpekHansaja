@@ -13,9 +13,11 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <hr>
 
-### Reach me out! 🔗:
-
-<span>
+### Reach me! 💬:
+<div style="font-size:14px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel Free to Reach Me Any Time...
+</div>
+<p align="center">
   <a target="_blank" href="https://www.upek.dev"> <img src="./logo.svg" alt="upek's logo"/> </a>
   <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./twitterIcon.svg" alt="upek's Twitter"/> </a>
   <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/"> <img src="./linkedin.svg" alt="upek's LinkedIn"/> </a>
@@ -23,6 +25,12 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./instagram.svg" alt="upek's Instagram"/> </a>
   <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./reddit.svg" alt="upek's Reddit"/> </a>
   <a target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./pinterest.svg" alt="upek's Pinterest"/> </a>
-</span>
+</p>
+
+<hr>
+
+### Programming Languages 💻:
+
+  <a target="_blank" href="#"> <img src="./twitterx.svg" alt="upek's lang"/> </a>
 
 <hr>
