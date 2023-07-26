@@ -42,20 +42,31 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <p align="center">
   <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp"> <img src="./res/html.svg" alt="html" title="HTML5"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.w3schools.com/css/css_intro.asp"> <img src="./res/css.svg" alt="css" title="CSS3"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.w3schools.com/js/js_intro.asp"> <img src="./res/javascript.svg" alt="JavaScript" title="JavaScript"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.php.net"> <img src="./res/php.svg" alt="php" title="PHP"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.mysql.com"> <img src="./res/mysql.svg" alt="mysql" title="MySQL"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  &nbsp;
   <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.mongodb.com"> <img src="./res/mongoDB.svg" alt="mongobd" title="Mongo DB"/> </a>
 </p>
 
 <p align="center">
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
 </p>
 
