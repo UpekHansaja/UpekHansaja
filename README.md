@@ -77,6 +77,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://www.figma.com"> <img src="./res/figma.svg" alt="figma UX UI" title="Figma"/> </a>
   &nbsp;
+  <a target="_blank" href="https://www.canva.com"> <img src="./res/canva.svg" alt="canva" title="Canva"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.adobe.com/products/illustrator.html"> <img src="./res/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
