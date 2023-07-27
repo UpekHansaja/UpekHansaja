@@ -110,8 +110,6 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <hr>
 
-<p>
-
-<video src="https://cdn.dribbble.com/userupload/8634960/file/original-6c01e2e4a93b6e5878ead495c09a1631.mp4" width="600" autoplay muted loop></video>
-
+<p align="center">
+  <img src="res/endingGif.gif" alt="Upek's Github final image" style="height: 300px !important;width: 400px !important;" >
 </p>
