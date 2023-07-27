@@ -51,7 +51,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://www.w3schools.com/js/js_intro.asp"> <img src="./res/javascript.svg" alt="JavaScript" title="JavaScript"/> </a>
   &nbsp;
-  <a target="_blank" href="#"> <img src="./res/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/> </a>
+  <a target="_blank" href="https://getbootstrap.com"> <img src="./res/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.php.net"> <img src="./res/php.svg" alt="php" title="PHP"/> </a>
   &nbsp;
@@ -59,9 +59,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
   &nbsp;
-  <a target="_blank" href="#"> <img src="./res/nodejs-68.svg" alt="nodejs" title="Node JS"/> </a>
-  &nbsp;
-  <a target="_blank" href="#"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
+  <a target="_blank" href="https://nodejs.org/en"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
   &nbsp;
   <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
   &nbsp;
