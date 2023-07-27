@@ -111,5 +111,5 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <hr>
 
 <p align="center">
-  <img src="res/endingGif.gif" alt="Upek's Github final image" style="height: 300px !important;width: 400px !important;" >
+  <img src="res/endingGif.gif" alt="Upek's Github final image" width="600" height="400">
 </p>
