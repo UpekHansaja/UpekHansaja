@@ -20,7 +20,9 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <div style="font-size:14px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel Free to Reach Me Any Time...
 </div>
+
 <br/>
+
 <p align="center">
   <a target="_blank" href="https://www.upek.dev"> <img src="./res/logo.svg" alt="upek's logo" title="Upek's Portfolio"/> </a>
   &nbsp;
