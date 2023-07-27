@@ -101,8 +101,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 ### Support Me 🤝🫶:
 
-<br />
-<img align="right" alt="Support" width="400" src="sup.gif"/>
+<!-- <br /> -->
+<img align="right" alt="Support" width="400" src="res/sup.gif"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/UpekHansaja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
