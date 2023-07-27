@@ -61,7 +61,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="#"> <img src="./res/nodejs-68.svg" alt="nodejs" title="Node JS"/> </a>
   &nbsp;
-  <a target="_blank" href="#"> <img src="./res/nodejs.svg.svg" alt="nodejs" title="Node JS"/> </a>
+  <a target="_blank" href="#"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
   &nbsp;
   <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
   &nbsp;
