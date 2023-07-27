@@ -102,11 +102,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 ### Support Me 🤝🫶:
 
 <br />
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif"/>
+<img align="right" alt="Support" width="400" src="sup.gif"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/UpekHansaja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </p>
-
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="UpekHansaja" data-description="Support me on Buy me a coffee!" data-message="Your support means a lot 🫶" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
