@@ -81,9 +81,9 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
   &nbsp;
-  <a target="_blank" href="#"> <img src="./res/davinci.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
+  <a target="_blank" href="https://www.blackmagicdesign.com/products/davinciresolve"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
   &nbsp;
-  <a target="_blank" href="#"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
+  <a target="_blank" href="https://www.blender.org"> <img src="./res/blender.svg" alt="Blender" title="Blender"/> </a>
 </p>
 
 <hr>
