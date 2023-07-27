@@ -62,7 +62,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://nodejs.org/en"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
   &nbsp;
   <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
-  &nbsp;
+  <!-- &nbsp; -->
   <a target="_blank" href="https://www.mongodb.com"> <img src="./res/mongoDB.svg" alt="mongobd" title="Mongo DB"/> </a>
   <!-- &nbsp; --> 
   <a target="_blank" href="https://www.arduino.cc"> <img src="./res/arduino.svg" alt="arduino" title="Arduino"/> </a>
