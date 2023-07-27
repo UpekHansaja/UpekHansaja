@@ -31,6 +31,10 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://www.instagram.com/upek_hansaja/"> <img src="./res/instagram.svg" alt="upek's Instagram"/> </a>
   &nbsp;
+  <a target="_blank" href="#"> <img src="./res/youtube.svg" alt="upek's YouTube"/> </a>
+  &nbsp;
+  <a target="_blank" href="https://www.tiktok.com/@upek_hansaja"> <img src="./res/tiktok.svg" alt="upek's TikTok"/> </a>
+  &nbsp;
   <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja"> <img src="./res/redditNew.svg" alt="upek's Reddit"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.pinterest.com/upekhansaja/"> <img src="./res/pinterest.svg" alt="upek's Pinterest"/> </a>
@@ -72,6 +76,10 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://www.visual-paradigm.com"> <img src="./res/visualParadigm.svg" alt="visual paradigm" title="Visual Paradigm"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.figma.com"> <img src="./res/figma.svg" alt="figma UX UI" title="Figma"/> </a>
+  &nbsp;
+  <a target="_blank" href="https://www.adobe.com/products/illustrator.html"> <img src="./res/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator"/> </a>
+  &nbsp;
+  <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
 </p>
 
 <hr>
