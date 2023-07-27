@@ -80,6 +80,10 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://www.adobe.com/products/illustrator.html"> <img src="./res/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
+  &nbsp;
+  <a target="_blank" href="#"> <img src="./res/davinci.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
+  &nbsp;
+  <a target="_blank" href="#"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
 </p>
 
 <hr>
