@@ -26,9 +26,9 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <p align="center">
   <a target="_blank" href="https://www.upek.dev"> <img src="./res/logo.svg" alt="upek's logo" title="Upek's Portfolio"/> </a>
   &nbsp;
-  <a target="_blank" href="https://dev.to/upek_hansaja"> <img src="./res/logo.svg" alt="" title="Upek's DEV"/> </a>
+  <a target="_blank" href="https://dev.to/upek_hansaja"> <img src="./res/dev.png" alt="Upek's DEV" title="Upek's DEV"/> </a>
   &nbsp;
-  <a target="_blank" href="https://medium.com/@upekhansajabk"> <img src="./res/logo.svg" alt="upek's logo" title="Upek's Medium"/> </a>
+  <a target="_blank" href="https://medium.com/@upekhansajabk"> <img src="./res/medium.svg" alt="Upek's Medium" title="Upek's Medium"/> </a>
   &nbsp;
   <a target="_blank" href="https://twitter.com/UpekHansaja"> <img src="./res/twitterIcon.svg" alt="upek's Twitter" title="Twitter: @UpekHansaja"/> </a>
   &nbsp;
