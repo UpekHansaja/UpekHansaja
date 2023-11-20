@@ -1,5 +1,11 @@
 ![Header](./res/bannerImg-Upek.png)
 
+<head>
+    <style type="text/css">
+        a.nounderline {text-decoration: none; }
+    </style>
+</head>
+
 ### Hi there, I'm Upek Hansaja 👋
 
 <p>
@@ -52,7 +58,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 ### Programming Languages & Tools 💻:
 
 <p align="center">
-  <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp"> <img src="./res/html.svg" alt="html" title="HTML5"/> </a>
+  <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp" class="nounderline"> <img src="./res/html.svg" alt="html" title="HTML5"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.w3schools.com/css/css_intro.asp"> <img src="./res/css.svg" alt="css" title="CSS3"/> </a>
   &nbsp;
