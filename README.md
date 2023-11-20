@@ -24,13 +24,14 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <br/>
 
 <p align="center">
-  <a target="_blank" href="https://www.upek.dev" style="text-decoration:none;"> <img src="./res/logo.svg" alt="upek's logo" title="Upek's Portfolio"/> </a>
-  &nbsp;    
-  <a target="_blank" href="https://dev.to/upek_hansaja" style="text-decoration:none;"> <img src="./res/dev.png" alt="Upek's DEV" title="Upek's DEV"/> </a>
+  
+  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/logo.svg "Upek's Portfolio")](https://www.wemixt.com/)
+   &nbsp;
+   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/main/res/dev.png "DEV : upek_hansaja")](https://dev.to/upek_hansaja)
   &nbsp;
-  <a target="_blank" href="https://medium.com/@upekhansajabk" style="text-decoration:none;"> <img src="./res/medium.svg" alt="Upek's Medium" title="Upek's Medium"/> </a>
+  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/medium.svg "Medium : @upekhansajabk")](https://medium.com/@upekhansajabk)
   &nbsp;
-  <a target="_blank" href="https://twitter.com/UpekHansaja" style="text-decoration:none;"> <img src="./res/twitterIcon.svg" alt="upek's Twitter" title="Twitter: @UpekHansaja"/> </a>
+  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/twitterx.svg "X : @UpekHansaja")](https://twitter.com/UpekHansaja)
   &nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
   &nbsp;
