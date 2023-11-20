@@ -24,11 +24,11 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <br/>
 
 <p align="center">
+
+hlget(https://www.wemixt.com) hlset(WEMIXT)
+  
   <a target="_blank" href="https://www.upek.dev" style="text-decoration:none;"> <img src="./res/logo.svg" alt="upek's logo" title="Upek's Portfolio"/> </a>
-  &nbsp;
-    
-    [My Portfolio <img src="./res/logo.svg" alt="Upek's Portfolio"/>](https://www.upek.dev)
-    
+  &nbsp;    
   <a target="_blank" href="https://dev.to/upek_hansaja" style="text-decoration:none;"> <img src="./res/dev.png" alt="Upek's DEV" title="Upek's DEV"/> </a>
   &nbsp;
   <a target="_blank" href="https://medium.com/@upekhansajabk" style="text-decoration:none;"> <img src="./res/medium.svg" alt="Upek's Medium" title="Upek's Medium"/> </a>
