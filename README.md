@@ -115,10 +115,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <hr>
 
-<!--
-![](./profile-3d-contrib/profile-night-rainbow.svg)
--->
 
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=UpekHansaja)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=UpekHansaja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
 | ------------- | ------------- |
 
