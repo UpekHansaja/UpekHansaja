@@ -13,6 +13,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 </p>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65c390fa0c54812283ad037e?variant=dark)](https://roadmap.sh)
+
 <hr>
 
 ### Reach me! 💬:
