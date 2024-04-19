@@ -35,7 +35,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/twitterx.svg "X : @UpekHansaja")](https://twitter.com/UpekHansaja)
   &nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
+  [![](./res/linkedin.svg "LinkedIn : upek-hansaja")](https://www.linkedin.com/in/upek-hansaja/)
+  <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668" style="text-decoration:none;"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Upek Hansaja"/> </a>
   &nbsp;
