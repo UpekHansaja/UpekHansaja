@@ -36,19 +36,18 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/twitterx.svg "X : @UpekHansaja")](https://twitter.com/UpekHansaja)
   &nbsp;
   [![](./res/linkedin.svg "LinkedIn : upek-hansaja")](https://www.linkedin.com/in/upek-hansaja/)
-  <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668" style="text-decoration:none;"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Upek Hansaja"/> </a>
+  [![](./res/facebook.svg "Facebook: Upek Hansaja")](https://www.facebook.com/profile.php?id=100068307769668)
   &nbsp;
-  <a target="_blank" href="https://www.instagram.com/upek_hansaja/" style="text-decoration:none;"> <img src="./res/instagram.svg" alt="upek's Instagram" title="Instagram: upek_hansaja"/> </a>
+  [![](./res/instagram.svg "Instagram: upek_hansaja")](https://www.instagram.com/upek_hansaja/)
   &nbsp;
-  <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/youtube.svg" alt="upek's YouTube" title="YouTube: Upek Hansaja"/> </a>
+  [![](./res/youtube.svg "YouTube: Upek Hansaja")](#)
   &nbsp;
-  <a target="_blank" href="https://www.tiktok.com/@upek_hansaja" style="text-decoration:none;"> <img src="./res/tiktok.svg" alt="upek's TikTok" title="TikTok: upek_hansaja"/> </a>
+  [![](./res/tiktok.svg "TikTok: upek_hansaja")](https://www.tiktok.com/@upek_hansaja)
   &nbsp;
-  <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja" style="text-decoration:none;"> <img src="./res/redditNew.svg" alt="upek's Reddit" title="Reddit: Upek_Hansaja"/> </a>
+  [![](./res/redditNew.svg "Reddit: Upek_Hansaja")](https://www.reddit.com/user/Upek_Hansaja)
   &nbsp;
-  <a target="_blank" href="https://www.pinterest.com/upekhansaja/" style="text-decoration:none;"> <img src="./res/pinterest.svg" alt="upek's Pinterest" title="Pinterset: upekhansaja"/> </a>
+  [![](./res/pinterest.svg "Pinterset: upekhansaja")](https://www.pinterest.com/upekhansaja/)
 </p>
 
 <hr>
@@ -56,51 +55,54 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 ### Programming Languages & Tools 💻:
 
 <p align="center">
-  <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp"> <img src="./res/html.svg" alt="html" title="HTML5"/> </a>
+  
+  [![](./res/html.svg "HTML5")](https://www.w3schools.com/html/html_intro.asp)
   &nbsp;
-  <a target="_blank" href="https://www.w3schools.com/css/css_intro.asp"> <img src="./res/css.svg" alt="css" title="CSS3"/> </a>
+  [![](./res/css.svg "CSS3")](https://www.w3schools.com/css/css_intro.asp)
   &nbsp;
-  <a target="_blank" href="https://www.w3schools.com/js/js_intro.asp"> <img src="./res/javascript.svg" alt="JavaScript" title="JavaScript"/> </a>
+  [![](./res/javascript.svg "JavaScript")](https://www.w3schools.com/js/js_intro.asp)
   &nbsp;
-  <a target="_blank" href="https://getbootstrap.com"> <img src="./res/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/> </a>
+  [![](./res/bootstrap.svg "Bootstrap")](https://getbootstrap.com)
   &nbsp;
-  <a target="_blank" href="https://www.php.net"> <img src="./res/php.svg" alt="php" title="PHP"/> </a>
+  [![](./res/php.svg "PHP")](https://www.php.net)
   &nbsp;
-  <a target="_blank" href="https://www.mysql.com"> <img src="./res/mysql.svg" alt="mysql" title="MySQL"/> </a>
+  [![](./res/mysql.svg "MySQL")](https://www.mysql.com)
   &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
+  [![](./res/java.svg "Java")](https://www.java.com/en/)
   &nbsp;
-  <a target="_blank" href="https://nodejs.org/en"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
+  [![](./res/nodejs.svg "Node JS")](https://nodejs.org/en)
   &nbsp;
-  <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
+  [![](./res/react-native.svg "React-Native")](https://reactnative.dev)
+  <a target="_blank" href=""> <img src="" alt="react-native" title=""/> </a>
   <!-- &nbsp; -->
-  <a target="_blank" href="https://www.mongodb.com"> <img src="./res/mongoDB.svg" alt="mongobd" title="Mongo DB"/> </a>
+  [![](./res/mongoDB.svg "Mongo DB")](https://www.mongodb.com)
   <!-- &nbsp; --> 
-  <a target="_blank" href="https://www.arduino.cc"> <img src="./res/arduino.svg" alt="arduino" title="Arduino"/> </a>
+  [![](./res/arduino.svg "Arduino")](https://www.arduino.cc)
   &nbsp;
-  <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a>
+  [![](./res/git.svg "Git")](https://git-scm.com)
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://code.visualstudio.com"> <img src="./res/vscode.svg" alt="vs code" title="Visual Studio Code"/> </a>
+  
+  [![](./res/vscode.svg "Visual Studio Code")](https://code.visualstudio.com)
   &nbsp;
-  <a target="_blank" href="https://netbeans.apache.org"> <img src="./res/netbeans.svg" alt="netbeans IDE" title="Apache NetBeans IDE"/> </a>
+  [![](./res/netbeans.svg "Apache NetBeans IDE")](https://netbeans.apache.org)
   &nbsp;
-  <a target="_blank" href="https://github.com"> <img src="./res/github-light.svg" alt="github" title="GitHub"/> </a>
+  [![](./res/github-light.svg "GitHub")](https://github.com)
   &nbsp;
-  <a target="_blank" href="https://www.visual-paradigm.com"> <img src="./res/visualParadigm.svg" alt="visual paradigm" title="Visual Paradigm"/> </a>
+  [![](./res/visualParadigm.svg "Visual Paradigm")](https://www.visual-paradigm.com)
   &nbsp;
-  <a target="_blank" href="https://www.figma.com"> <img src="./res/figma.svg" alt="figma UX UI" title="Figma"/> </a>
+  [![](./res/figma.svg "Figma")](https://www.figma.com)
   &nbsp;
-  <a target="_blank" href="https://www.canva.com"> <img src="./res/canva.svg" alt="canva" title="Canva"/> </a>
+  [![](./res/canva.svg "Canva")](https://www.canva.com)
   &nbsp;
-  <a target="_blank" href="https://www.adobe.com/products/illustrator.html"> <img src="./res/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator"/> </a>
+  [![](./res/illustrator.svg "Adobe Illustrator")](https://www.adobe.com/products/illustrator.html)
   &nbsp;
-  <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
+  [![](./res/photoshop.svg "Adobe Photoshop")](https://www.adobe.com/products/photoshop.html)
   &nbsp;
-  <a target="_blank" href="https://www.blackmagicdesign.com/products/davinciresolve"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
+  [![](./res/davinciResolve.svg "DaVinci Resolve")](https://www.blackmagicdesign.com/products/davinciresolve)
   &nbsp;
-  <a target="_blank" href="https://www.blender.org"> <img src="./res/blender.svg" alt="Blender" title="Blender"/> </a>
+  [![](./res/blender.svg "Blender")](https://www.blender.org)
 </p>
 
 <hr>
