@@ -73,7 +73,6 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   [![](./res/nodejs.svg "Node JS")](https://nodejs.org/en)
   &nbsp;
   [![](./res/react-native.svg "React-Native")](https://reactnative.dev)
-  <a target="_blank" href=""> <img src="" alt="react-native" title=""/> </a>
   <!-- &nbsp; -->
   [![](./res/mongoDB.svg "Mongo DB")](https://www.mongodb.com)
   <!-- &nbsp; --> 
