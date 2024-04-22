@@ -25,11 +25,12 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <br/>
 
-<p align="center">
+<div style="width: 100%; display: flex; align-items: center;">
+<p style="display: flex; align-items: center;">
   
   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/logo.svg "Upek's Portfolio")](https://www.wemixt.com/)
-   &nbsp;
-   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/main/res/dev.png "DEV : upek_hansaja")](https://dev.to/upek_hansaja)
+  &nbsp;
+  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/main/res/dev.png "DEV : upek_hansaja")](https://dev.to/upek_hansaja)
   &nbsp;
   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/medium.svg "Medium : @upekhansajabk")](https://medium.com/@upekhansajabk)
   &nbsp;
@@ -54,7 +55,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 ### Programming Languages & Tools 💻:
 
-<p align="center">
+<p style="display: flex; align-items: center;">
   
   [![](./res/html.svg "HTML5")](https://www.w3schools.com/html/html_intro.asp)
   &nbsp;
@@ -73,15 +74,15 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   [![](./res/nodejs.svg "Node JS")](https://nodejs.org/en)
   &nbsp;
   [![](./res/react-native.svg "React-Native")](https://reactnative.dev)
-  <!-- &nbsp; -->
+  &nbsp;
   [![](./res/mongoDB.svg "Mongo DB")](https://www.mongodb.com)
-  <!-- &nbsp; --> 
+  &nbsp; 
   [![](./res/arduino.svg "Arduino")](https://www.arduino.cc)
   &nbsp;
   [![](./res/git.svg "Git")](https://git-scm.com)
 </p>
 
-<p align="center">
+<p style="display: flex; align-items: center;">
   
   [![](./res/vscode.svg "Visual Studio Code")](https://code.visualstudio.com)
   &nbsp;
@@ -103,7 +104,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   [![](./res/blender.svg "Blender")](https://www.blender.org)
 </p>
-
+</div>
 <hr>
 
 <p>
