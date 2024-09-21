@@ -1,55 +1,26 @@
-![Header](./res/bannerImg-Upek.png)
+![Header](./res/Upek-Social%20Media-Banner.png)
 
-### Hi there, I'm Upek Hansaja 👋
+<h2 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="35"/> it's Upek,</h2>
 
-<p>
-I'm a Full-Stack Software Engineering Undergraduate with a passion for Web-Application Development. I specialize in Frontend technologies like HTML, CSS, and JavaScript, creating beautiful and responsive user interfaces. On the Backend, I have expertise in PHP and MySQL Database, ensuring seamless data handling and processing.
+- Bsc (Hons) Full-Stack Software Engineering Undergraduate.
+- Passionate for Web-Application Development.
+- Experience in Project Management, Team Leading as well as UX designing.
 
-In addition to Web development, I excel in Cross-Platform Mobile Application Development using React-Native, creating efficient and engaging apps for various platforms. Another area of my expertise lies in Inventory Control System (POS) Desktop Applications Development, where I design intuitive and efficient systems for businesses.
+Welcome to my GitHub portfolio, where you'll find a collection of my projects showcasing my skills and passion for software development. _Let's Empower your business by Transform ideas into reality together!_
 
-As a versatile developer, I also have experience in Project Management, ensuring that every project I work on is delivered on time and within budget.
+</br>
 
-Welcome to my GitHub portfolio, where you'll find a collection of my projects showcasing my skills and passion for software development. Let's build innovative solutions together!
+### Currently learning ! 📚:
 
-</p>
+[![roadmap.sh](https://roadmap.sh/card/wide/65c390fa0c54812283ad037e?variant=dark)](https://roadmap.sh)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65c390fa0c54812283ad037e?variant=dark)](https://roadmap.sh)
-
-<hr>
+</br>
 
 ### Reach me! 💬:
 
-<div style="font-size:14px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel Free to Reach Me Any Time...
-</div>
+[!["LinkedIn: Upek Hansaja"](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/upek-hansaja/)
 
-<br/>
-
-<div style="width: 100%; display: flex; align-items: center;">
-<p style="display: flex; align-items: center;">
-  
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/logo.svg "Upek's Portfolio")](https://www.wemixt.com/)
-  &nbsp;
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/main/res/dev.png "DEV : upek_hansaja")](https://dev.to/upek_hansaja)
-  &nbsp;
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/medium.svg "Medium : @upekhansajabk")](https://medium.com/@upekhansajabk)
-  &nbsp;
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/twitterx.svg "X : @UpekHansaja")](https://twitter.com/UpekHansaja)
-  &nbsp;
-  [![](./res/linkedin.svg "LinkedIn : upek-hansaja")](https://www.linkedin.com/in/upek-hansaja/)
-  &nbsp;
-  [![](./res/facebook.svg "Facebook: Upek Hansaja")](https://www.facebook.com/profile.php?id=100068307769668)
-  &nbsp;
-  [![](./res/instagram.svg "Instagram: upek_hansaja")](https://www.instagram.com/upek_hansaja/)
-  &nbsp;
-  [![](./res/youtube.svg "YouTube: Upek Hansaja")](#)
-  &nbsp;
-  [![](./res/tiktok.svg "TikTok: upek_hansaja")](https://www.tiktok.com/@upek_hansaja)
-  &nbsp;
-  [![](./res/redditNew.svg "Reddit: Upek_Hansaja")](https://www.reddit.com/user/Upek_Hansaja)
-  &nbsp;
-  [![](./res/pinterest.svg "Pinterset: upekhansaja")](https://www.pinterest.com/upekhansaja/)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <hr>
 
@@ -121,5 +92,4 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <hr>
 
 | [![GitHub Streak](https://streak-stats.demolab.com?user=UpekHansaja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
-| ------------- | ------------- |
-
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
