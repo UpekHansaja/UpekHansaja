@@ -68,7 +68,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <div align="center" style="width:'50%'; display: inline-block; align-items: center; justify-content: center;">
 
-[![My Tools](https://skillicons.dev/icons?i=idea,vscode,androidstudio,arduino,github,figma,notion)](#)
+[![My Tools](https://skillicons.dev/icons?i=idea,vscode,androidstudio,arduino,github,postman,figma,notion)](#)
 
 </div>
 
@@ -77,6 +77,14 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <img src="./res/moonwalk.gif" alt="Retro Animated Desktop" width="200" />
 
 </div>
+
+</div>
+
+</br>
+
+<div align="center" style="width:'100%'; display: inline-block; align-items: center; justify-content: center;">
+
+[![My Publishes](https://skillicons.dev/icons?i=devto)](https://dev.to/upek_hansaja)
 
 </div>
 
