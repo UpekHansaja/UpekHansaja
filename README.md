@@ -82,6 +82,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 </br>
 
+### _Word from me! ✍️:_
+
 <div align="center" style="width:'100%'; display: inline-block; align-items: center; justify-content: center;">
 
 [![My Publishes](https://skillicons.dev/icons?i=devto)](https://dev.to/upek_hansaja)
