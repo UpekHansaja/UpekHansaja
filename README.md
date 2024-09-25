@@ -54,7 +54,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <div align="center" style="width:'100%'; display: flex; align-items: center; justify-content: center;">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,react,vite,ts,nodejs,express,php,java,hibernate,mysql,mongodb,azure,gcp,firebase,regex,git,md,bash,npm,pnpm,yarn&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,bootstrap,tailwind,react,vite,ts,nodejs,express,php,java,hibernate,mysql,mongodb,azure,gcp,firebase,regex,git,md,bash,npm,pnpm,yarn&perline=14)](#)
 
 </div>
 
