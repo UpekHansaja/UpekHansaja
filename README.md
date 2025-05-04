@@ -40,12 +40,6 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 </div>
 
-<div align="center" style="width:'50%'; display: inline-block; align-items: center; justify-content: center;">
-
-<img src="./res/retro-desktop.gif" alt="Retro Animated Desktop"  width="215" />
-
-</div>
-
 </div>
 
 </br>
@@ -55,6 +49,12 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <div align="center" style="width:'100%'; display: flex; align-items: center; justify-content: center;">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,bootstrap,tailwind,react,vite,ts,nodejs,express,php,java,hibernate,mysql,mongodb,azure,gcp,firebase,regex,git,md,bash,npm,pnpm,yarn&perline=14)](#)
+
+</div>
+
+<div align="center" style="width:'50%'; display: inline-block; align-items: center; justify-content: center;">
+
+<img src="./res/retro-desktop.gif" alt="Retro Animated Desktop"  width="215" />
 
 </div>
 
