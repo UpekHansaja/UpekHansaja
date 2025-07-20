@@ -27,7 +27,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@v2.6.1
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
