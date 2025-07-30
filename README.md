@@ -24,7 +24,11 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 ### _Github Stats! 👨‍💻:_
 
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UpekHansaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
+| <a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=UpekHansaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a> | <p align="left">&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" />
+</p> |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
@@ -72,7 +76,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <div align="center" style="width:'50%'; display: inline-block; align-items: center; justify-content: center;">
 
-[![My Tools](https://skillicons.dev/icons?i=idea,vscode,androidstudio,arduino,github,postman,netlify,figma,notion)](#)
+[![My Tools](https://skillicons.dev/icons?i=idea,vscode,androidstudio,arduino,github,postman,netlify,vercel,figma,notion)](#)
 
 </div>
 
