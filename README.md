@@ -12,10 +12,12 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 ### _Currently learning ! 📚:_
 
-<div align="center" style="width:'100%'; display: 'flex'; align-items: 'center'; justify-content: 'center';">
+<div align="center" style="width:'100%'; display: 'flex'; align-items: 'center'; justify-content: 'center'; flex-direction:'row';">
 
    [![roadmap.sh](https://roadmap.sh/card/wide/65c390fa0c54812283ad037e?variant=dark)](https://roadmap.sh)
 
+   [![Check out UpekHansaja's profile on stardev.io](https://stardev.io/developers/UpekHansaja/badge/languages/country.svg)](https://stardev.io/developers/UpekHansaja)
+   
 </div>
 
 
