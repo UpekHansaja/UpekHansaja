@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
    [![roadmap.sh](https://roadmap.sh/card/wide/65c390fa0c54812283ad037e?variant=dark)](https://roadmap.sh)
 
-   [![Check out UpekHansaja's profile on stardev.io](https://stardev.io/developers/UpekHansaja/badge/languages/country.svg)](https://stardev.io/developers/UpekHansaja)
+   <a href="https://stardev.io/developers/UpekHansaja"><img alt="Check out UpekHansaja&apos;s profile on stardev.io" src="https://stardev.io/developers/UpekHansaja/badge/languages/country.svg" /></a>
    
 </div>
 
