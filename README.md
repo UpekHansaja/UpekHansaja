@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
    [![roadmap.sh](https://roadmap.sh/card/wide/65c390fa0c54812283ad037e?variant=dark)](https://roadmap.sh)
 
-   ![Stardev Ranking](https://stardev.io/developers/UpekHansaja/badge/languages/country.svg)
+   <!-- ![Stardev Ranking](https://stardev.io/developers/UpekHansaja/badge/languages/country.svg) -->
    
 </div>
 
@@ -25,10 +25,10 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 ### _Github Stats! 👨‍💻:_
 
-
+<!--
 | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UpekHansaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a> | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
+-->
 <br/>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -93,6 +93,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <div align="center" style="width:'100%'; display: inline-block; align-items: center; justify-content: center;">
 
 [![My Publishes](https://skillicons.dev/icons?i=devto)](https://dev.to/upek_hansaja)
+[![My Medium Publishes](https://skillicons.dev/icons?i=medium)](https://medium.com/@upekhansaja)
 
 </div>
 
