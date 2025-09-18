@@ -93,7 +93,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 <div align="center" style="width:'100%'; display: inline-block; align-items: center; justify-content: center;">
 
 [![My Publishes](https://skillicons.dev/icons?i=devto)](https://dev.to/upek_hansaja)
-[![My Medium Publishes](https://skillicons.dev/icons?i=medium)](https://medium.com/@upekhansaja)
+[![My Medium Publishes](https://github.com/UpekHansaja/UpekHansaja/blob/main/res/icons8-medium-100.png?raw=true)](https://medium.com/@upekhansaja)
 
 </div>
 
